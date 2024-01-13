@@ -1,1 +1,1 @@
-# -ClassificadorNivelHeroi
+# ClassificadorNivelHeroi
